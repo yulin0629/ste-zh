@@ -1,7 +1,5 @@
 # ste-zh：簡化技術中文規範（臺灣繁體版）
 
-**語言 / Language：** [簡體中文（原版）](https://github.com/dualface/ste-zh) | 繁體中文（臺灣）
-
 > 本專案 fork 自 [dualface/ste-zh](https://github.com/dualface/ste-zh)，改寫為繁體中文與臺灣慣用技術詞。R1–R25 規則、輸出模板與狀態詞的內容與原版相同；另外把預設輸出語言改為繁體中文（臺灣用詞），並新增臺灣慣用詞對照表（`references/terminology.md` 第 7 節）。
 
 一個給 AI Agent 用的任務回報規範 skill。借鑑航空與工業界嚴謹的 **ASD-STE100**（Simplified Technical English，簡化技術英語）原則，約束 Agent 用清楚、嚴密且無歧義的中文回報工作結果。
