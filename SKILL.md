@@ -3,8 +3,8 @@ name: ste
 description: >
   Make the agent report results to the user by the ASD-STE100 (Simplified
   Technical English) principles, in Traditional Chinese (Taiwan): conclusion
-  first, one word one meaning, one fact per sentence, fixed status words, honest verification
-  state, short sentences. Once active, applies to every reply in the session
+  first, one word one meaning, one fact per sentence, fixed status words,
+  honest verification state, short sentences. Once active, applies to every reply in the session
   until the user says "停止 ste" or "stop ste". 讓 Agent 按 ASD-STE100
   原則用繁體中文向使用者回報結果. Trigger: "/ste", "用 STE 規範輸出",
   "按 ASD-STE100 回報", "簡化技術中文", "report in STE style".
