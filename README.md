@@ -2,7 +2,7 @@
 
 **語言 / Language：** [简体中文（原版）](https://github.com/dualface/ste-zh) | 繁體中文（臺灣）
 
-> 本專案 fork 自 [dualface/ste-zh](https://github.com/dualface/ste-zh)，改寫為繁體中文與臺灣慣用技術詞。規則內容與原版相同。
+> 本專案 fork 自 [dualface/ste-zh](https://github.com/dualface/ste-zh)，改寫為繁體中文與臺灣慣用技術詞。R1–R25 規則、輸出模板與狀態詞的內容與原版相同；另外把預設輸出語言改為繁體中文（臺灣用詞），並新增臺灣慣用詞對照表（`references/terminology.md` 第 7 節）。
 
 一個給 AI Agent 用的任務回報規範 skill。借鑑航空與工業界嚴謹的 **ASD-STE100**（Simplified Technical English，簡化技術英語）原則，約束 Agent 用清楚、嚴密且無歧義的中文回報工作結果。
 
@@ -133,7 +133,7 @@ git clone https://github.com/yulin0629/ste-zh.git ~/.claude/skills/ste
 
 ## 設計背景與 ASD-STE100 的關係
 
-- **關於標準**：[ASD-STE100](https://www.asd-ste100.org/)（Simplified Technical English）由歐洲航太與國防工業協會（ASD）維護，原本是針對英文技術維修文件制定的受控語言規範，用來消除歧義與理解偏差。
+- **關於標準**：[ASD-STE100](https://www.asd-ste100.org/)（Simplified Technical English）由歐洲航太、安全與國防工業協會（ASD）維護，原本是針對英文技術維修文件制定的受控語言規範，用來消除歧義與理解偏差。
 - **中文改寫**：本專案提煉 ASD-STE100 的核心原則，並依 AI 互動的特性重構為一套中文實用規則。條目編號與內容均為獨立設計，並非原文直譯。
 - **獨立聲明**：本專案為個人開源專案，未收錄 ASD-STE100 原文與受控詞典，與 ASD 組織無隸屬關係。ASD-STE100 與 Simplified Technical English 的權利屬於 ASD。如需研讀 ASD-STE100 英文原版標準，可到其官網免費申請。
 

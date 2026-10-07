@@ -13,7 +13,7 @@
 | ASD-STE100 | ASD-STE100 | 標準編號，不翻譯。 |
 | Simplified Technical English (STE) | 簡化技術英語 | 縮寫 STE 不翻譯。 |
 | Simplified Technical Chinese | 簡化技術中文 | 本 skill 對中文改寫版的稱呼，不是官方名稱。 |
-| ASD (AeroSpace, Security and Defence Industries Association of Europe) | 歐洲航空航天、安全與防務工業協會 | 一般只寫 ASD。 |
+| ASD (AeroSpace, Security and Defence Industries Association of Europe) | 歐洲航太、安全與國防工業協會 | 一般只寫 ASD。 |
 | STEMG (STE Maintenance Group) | STE 維護組 | |
 | Issue | 版 | 例：Issue 9 寫作「第 9 版」。 |
 | Standard for Technical Documentation | 技術文件標準 | 第 9 版起的副標題。 |
@@ -156,7 +156,8 @@
 | 文檔 | 文件 |
 | 配置 | 設定 |
 | 默認 | 預設 |
-| 信息 | 資訊；訊息 |
+| 信息（指 information） | 資訊 |
+| 信息（指 message） | 訊息 |
 | 數據 | 資料 |
 | 界面 | 介面 |
 | 網絡 | 網路 |
